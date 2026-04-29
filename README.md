@@ -1,5 +1,7 @@
 # Saudi Payments Transformation Dashboard
 
+![Dashboard Preview](dashboard-preview.png)
+
 Interactive dashboard analyzing Saudi Arabia’s shift toward digital payments.
 
 ## Live Demo
